@@ -1,1 +1,0 @@
-alter TABLE drug COMMENT '药品';
